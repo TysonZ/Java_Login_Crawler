@@ -1,6 +1,7 @@
 //==============================================
 // Author: Tyson Skmuzz
 // Github: https://github.com/skmuzz
+// Project Git: https://github.com/skmuzz/Find-Admin-Login-Page
 // Open Source & Free to distribute with credit.
 //==============================================
 
@@ -79,7 +80,7 @@ if(counter != 0){
   System.out.println("!! ");
   System.out.println("!! " + e.getMessage());
   System.out.println("!! ");
-  System.out.println("!! Please contact me via github for help! https://github.com/skmuzz");
+  System.out.println("!! Please contact me via github for help! https://github.com/skmuzz/Find-Admin-Login-Page");
 }
 
 }
